@@ -1,0 +1,6 @@
+{
+  "name": "GTA AutoNav CarPlay",
+  "description": "GTA temalı, eksiksiz rota planlama, canlı harita simülasyonu, mini oyunlar ve özelleştirilebilir CarPlay navigasyon deneyimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
